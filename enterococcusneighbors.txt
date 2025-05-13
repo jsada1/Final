@@ -1,0 +1,2 @@
+spadesout/scaffolds.fasta	neighbors/VE14089.fasta	98.8503	873	954
+spadesout/scaffolds.fasta	neighbors/VE18395.fasta	98.8465	870	954
